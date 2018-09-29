@@ -1,0 +1,24 @@
+body{
+    background-image: url("wallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size:200%;
+    color: rgb(17, 17, 16);
+}
+#youtube{
+    margin-left: 500px;
+}
+.footer{
+    text-align:center;
+    margin-top:10px;
+
+}
+.section-header{
+    color: blue;
+}
+#past-section{
+    color: coral;
+
+}
+h4{
+    color: crimson;
+}
